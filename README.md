@@ -1,3 +1,10 @@
+
+<p>ORIGNAL SOURCE CODE FOR KOMODO-DESKTOP-WALLET</p>
+
+
+
+<p>for Bitstock Desktop wallet to trade Bitnet IO stocks please https://github.com/bitnet-io/bitstock-wallet-desktop</p>
+
 <p align="center">
     <a href="https://atomicdex.io" alt="Komodo Wallet">
 	<img width="420" alt="komodo-wallet-logo_dark-theme" src="https://user-images.githubusercontent.com/24797699/252409662-eb03b0b1-5f6e-4494-9267-132eba827718.png">
